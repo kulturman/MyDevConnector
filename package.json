@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "bcrypt": "^3.0.3",
-    "concurrently": "^4.1.0",
+    "concurrently": "^6.1.0",
     "config": "^3.0.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
